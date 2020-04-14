@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/labs11-ad-network/labs11-adNetwork-BE/issues"
   },
-  "homepage": "https://github.com/labs11-ad-network/labs11-adNetwork-BE#readme",
+  "homepage": "",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
